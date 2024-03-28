@@ -1,9 +1,6 @@
 ## Hi there 👋
 
 
-**mdhasanxcode/mdhasanxcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 👨🏼‍🎓  My name is MD RAKIB HASAN
 - 🖥  Data Science Aspirant
