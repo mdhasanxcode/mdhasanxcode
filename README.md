@@ -38,7 +38,7 @@ I believe good engineering means:
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=mdhasanxcode&show_icons=true&theme=tokyonight"/>
+  <img width="43%" src="https://github-readme-stats.vercel.app/api?username=mdhasanxcode&show_icons=true&theme=tokyonight"/>
   <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdhasanxcode&layout=compact&theme=tokyonight"/>
 </p>
 
