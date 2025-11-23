@@ -38,8 +38,8 @@ I believe good engineering means:
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mdhasanxcode&show_icons=true&theme=tokyonight"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdhasanxcode&layout=compact&theme=tokyonight"/>
+  <img width="30%" src="https://github-readme-stats.vercel.app/api?username=mdhasanxcode&show_icons=true&theme=tokyonight"/>
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdhasanxcode&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
