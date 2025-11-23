@@ -4,8 +4,7 @@
 ---
 
 ### 🚀 About Me
-I’m a DevOps & MLOps Engineer passionate about building **automated, scalable, and cloud-native systems**.  
-I love bridging the gap between **software engineering, DevOps, and machine learning**, focusing on automation-first workflows that make engineering faster and more reliable.
+I’m a DevOps & MLOps Engineer passionate about building **automated, scalable, and cloud-native systems**. I love bridging the gap between **software engineering, DevOps, and machine learning**, focusing on automation-first workflows that make engineering faster and more reliable.
 
 Currently:
 - 🎓 Final Year BSc Student @ **University of Technology Sydney**
